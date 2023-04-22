@@ -50,5 +50,7 @@ def hello():
         username = login_form.username.data
         session['username'] = username
 
+        flash('Nombre de usuario registrado con exito')
+
         return redirect(url_for('index'))
     return render_template('hello.html', **context)
