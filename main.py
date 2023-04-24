@@ -8,7 +8,6 @@ import unittest
 
 app = Flask(__name__)
 bootstrap = Bootstrap(app)
-
 app.config['SECRET_KEY'] = 'SUPER SECRETO'
 
 todos = ['Comprar Cafe','Enviar Solicitud de compra','Recibir Producto']
