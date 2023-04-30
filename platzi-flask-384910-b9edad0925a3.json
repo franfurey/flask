@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "platzi-flask-384910",
+  "private_key_id": "b9edad0925a3b14935b015a117bee6778f46d182",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC1fu8ozHUcl1OZ\nP/w18RRIwsj0P+PppFS3pMhLFD2a5f2eQxyoIHqWt6bpZzmd8vbtuVzcWlOXABFA\nqrl1Ugv7KX7JgrbwNw3pYf6Xa6W/6EDAqY4EaWGiX/TN8VK+xswtOMaE7g8jdwKU\neurYj7Eo3xYkAwu3wIqWqBHjH26uLgdF7gewsyBOHNutdtr21nwuJWjoCWaE06M1\nQnqdrspgVO3PwNi9fy7U32w1r2kdYn0SX6hOleYurJZWCOlmoJWDjJ8cIf4oGzRZ\n9wHIDehC76/MADw5PCAGTpfvgswmpLm9nmvTapmNcfoxlCkqXKFy6Rc5zrB3FeCL\n+MYAIm8lAgMBAAECggEAIrK0A9OEzzTCE4IXVHO0yk1M8F83kh8r4BkVfr8NoQu3\nvzY66AyfiylstGIa8o609RFTRsBRC0UEx11sS9jl9/xApENEeKu50eS9cNLwcv4y\nxPKVd1PzScD5ExdAF793YOziDR9bDw9tU5glRkZAWx09RSC88IITrMZQdyC2/v70\nzb8Gd1qcH2I+F2Ooc2Dh84u7qOLNDEsDQKCrgKJsZE3cQb2+OcFsp4d+Ka+/VeS7\nfUkYavECCoLi4+SN7JV1kHErJMSFZVkOMoKaw3qkGhh8IZijRmFXclmqrvDPmiFK\nT9FyLWxO1jWKyLxnf3BPhVwpvkYMNr2mVP/7/XD8oQKBgQDcgXfXuqRWTPj8HPyg\n7dFjQoSRWxWRWiWdWVVX3LLEDZWVIqSqNJlcmKjcxHQukUzLUH5GQ0ZVzovPg7al\nkKq4g5I4sLuicZ+1rSD6E054hPYLPXWG0CvK2938Nuvv74vLGAHUktrtzpF3XFrZ\nrfX/edU1Vzb06hd/ZTGulajAIQKBgQDStfVT0Sfa0K7OvanKfsOIr5rfIOXMD/Aa\n0dRMOuZV3HCes0pzflDfVpp4RL9JXi1l6aZhgdBbzuXD8KYh9NX4gO+tMV0rrz18\nwNAEd0EECgg/RyQi9lrombye1bM+qKGMUeVPH8cvWAi3deYUjr9xKX460+awHj+3\nDOoPtZrehQKBgDWlKcrKFYEJaOmtA6kDMpW7cRUL28to6w3E1gZyIuufgmyt6PGf\nqk/ks/BBuyI5Jz2vb4kYhNwLS+hIWv8cmuwY1lIEbSGwEvLYE9XDLKwVbOZ/JUCP\nFJhdtTvPAMd2t8PJK2jT8X85ahpn1ZJvyBFHSp+XgD9FVEIiFFws/MkBAoGAPEcJ\nU1z2BcbE+yeOtvrkfOmfaE1E78dvbHyyOsxusAlLvlqT5c4w3HMt5VHlVtu2KP1a\nN3KnZFwfppnlLLmZrGlWJzmD6cdL07Bk0aI72yfzjAaR8959yySPrPB9QmODM10K\nOERi+sw4UiNMGn1rjrfMAJA14hQFLhxnqO7OyvECgYB+Ri1rTJfjhUPs7StkLuXT\nRns3H6+oEw79vYcT+y8g/zbQptOr3ScN84+D5IEwydEegPdyf4ZzS/ErPLNtNg1M\nI9ooi5ZkFu8v6Hr5OgqrQ4yIcCZvI6xZ4fNKWzjmo9GiwfRkN1mAsqW22bB2K5lN\n187rrdhCUn1Lcp10NFYcUQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "platzi-flask@platzi-flask-384910.iam.gserviceaccount.com",
+  "client_id": "101338603448454347743",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/platzi-flask%40platzi-flask-384910.iam.gserviceaccount.com"
+}
